@@ -15,7 +15,7 @@ this program has not audited 😀.
 
 ### feedbacks and criticisms would be greatly appreciated 🥶
 
-Feel free to reach out to me at [@dev_femi](https://twitter.com/dev_femi) on Twitter! or simply make a PR 😀 - Thank You!
+Feel free to reach out to me at [@femi_0x](https://twitter.com/femi_0x) on Twitter! or simply make a PR 😀 - Thank You!
 
 ## How to run 
 
